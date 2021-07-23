@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358093655590",
+    "project_id": "appchatmoviles-25ce8",
+    "storage_bucket": "appchatmoviles-25ce8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358093655590:android:737f78325ac73de53e20e7",
+        "android_client_info": {
+          "package_name": "com.example.crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358093655590-qmmtultn9q0mg5l38t8h3ldeq4v08aci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxsyMOJnY-cjAfaiNZknhICDuyZjzjIrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358093655590-qmmtultn9q0mg5l38t8h3ldeq4v08aci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
